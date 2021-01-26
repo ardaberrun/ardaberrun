@@ -2,7 +2,7 @@
 <br />
 
 <p>Hi there 👋. My name is Arda Berrun. I'm a student and a passionate developer at the same time, 🚀🚀 from Turkey.</p>
-<br /> <hr/>
+ <hr/>
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on my personal blog.
