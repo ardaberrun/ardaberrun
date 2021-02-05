@@ -5,7 +5,7 @@
  <hr/>
 
 **Talking about Personal Stuffs:**
-- 🔭 I’m currently working on my personal website.
+- 🔭 I’m currently working on mern stack blog project.
 - 🌱 I'm currently learning to be patient.
 - ⚡ Fun fact: I like to play accordion and reading about everything -*especially psychology*-.
 
