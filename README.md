@@ -5,11 +5,13 @@
  <hr/>
 
 **Talking about Personal Stuffs:**
+- 👀 I'm looking for internship opportunities.
 - 🔭 I’m currently working on mern stack blog project.
 - 🌱 I'm currently learning to be patient.
 - ⚡ Fun fact: I like to play accordion and reading about everything -*especially psychology*-.
 
 <br /> 
+
 
 **Languages and Tools:**
 
