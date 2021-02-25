@@ -2,6 +2,9 @@
 <br />
 
 <p>Hi there 👋. My name is Arda Berrun. I'm a student and a passionate developer at the same time, 🚀🚀 from Turkey.</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaberrun" alt="ardaberrun" /> </p>
+
  <hr/>
 
 **Talking about Personal Stuffs:**
