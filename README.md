@@ -14,6 +14,9 @@
 
 <br /> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaberrun&layout=compact&theme=tokyonight)
+
+
 
 **Languages and Tools:**
 
