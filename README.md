@@ -8,9 +8,9 @@
 
 **Talking about Personal Stuffs:**
 - 👀 I'm looking for internship opportunities.
-- 🔭 I’m currently working on mern stack blog project.
+- 🔭 I’m currently working on e-commerce project.
 - 🌱 I'm currently learning to be patient.
-- ⚡ Fun fact: I like to play accordion and reading about everything -*especially psychology*-.
+- ⚡ Fun fact: I like to play accordion and reading about everything.
 
 <br /> 
 
@@ -42,4 +42,5 @@
 [<img target="_blank" src="https://img.icons8.com/fluent/50/000000/instagram-new.png"/>](https://instagram.com/ardaberrun/)
 
 
+<!----->
 
