@@ -1,7 +1,7 @@
 ### console.log("Hello World!")
 <br />
 
-<p>Hi there 👋. My name is Arda Berrun. I'm a student and a passionate developer at the same time, 🚀🚀 from Turkey.</p>
+<p>Hi there 👋. My name is Arda Berrun. I'm a student and a passionate developer 🚀🚀 from Turkey.</p>
 
 
  <hr/>
