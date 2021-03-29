@@ -5,6 +5,7 @@
 
 
  <hr/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
 **Talking about Personal Stuffs:**
 - 👀 I'm looking for internship opportunities.
