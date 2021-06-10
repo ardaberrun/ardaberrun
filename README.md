@@ -9,7 +9,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on e-commerce project.
+- 🔭 I’m currently working on 👀.
 - 🌱 I'm currently learning to be patient.
 - ⚡ Fun fact: I like to play accordion and reading about everything.
 
