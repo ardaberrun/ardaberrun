@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
 **Talking about Personal Stuffs:**
-- 👀 I'm looking for internship opportunities.
+
 - 🔭 I’m currently working on e-commerce project.
 - 🌱 I'm currently learning to be patient.
 - ⚡ Fun fact: I like to play accordion and reading about everything.
