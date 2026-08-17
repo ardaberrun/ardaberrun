@@ -1,7 +1,7 @@
 ### console.log("Hello World!")
 <br />
 
-<p>Hi there 👋. My name is Arda Berrun. I'm a student and a passionate developer 🚀🚀 from Turkey.</p>
+<p>Hi there 👋. My name is Arda Berrun. Software Engineer 🚀🚀 from Turkey.</p>
 
 
  <hr/>
@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on Insider.
 - 🌱 I'm currently learning to be patient.
-- ⚡ Fun fact: I like to play accordion and reading about everything.
 
 <br /> 
 
@@ -35,14 +34,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" width="50" height="50" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaberrun&layout=compact&theme=tokyonight)
 <br />
 
 ## :mailbox: How to reach me :
 [<img target="_blank" src="https://img.icons8.com/fluent/50/000000/gmail.png"/>](mailto:ardaberrun@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ardaberrun/)
-[<img target="_blank" src="https://img.icons8.com/fluent/50/000000/instagram-new.png"/>](https://instagram.com/ardaberrun/)
-
-
 <!----->
 
